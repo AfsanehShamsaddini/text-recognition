@@ -5,7 +5,7 @@ This code is use to visualize text recognition using pytesseract and OpenCV.
 ### Screenshots
 Extraxt text
 <p align="center">
-   <img width="240" height="340"src="image/text.png">
+   <img width="240" height="440"src="image/text.png">
 </p>
 Extraxt word
 <p align="center">
