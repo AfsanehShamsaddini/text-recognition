@@ -1,0 +1,13 @@
+comtypes==1.2.0
+numpy==1.25.2
+opencv-python==4.8.0.76
+packaging==23.1
+Pillow==10.0.0
+pypiwin32==223
+PyQt5==5.15.9
+PyQt5-Qt5==5.15.2
+PyQt5-sip==12.12.2
+PyQt5Designer==5.14.1
+pytesseract==0.3.10
+pyttsx3==2.90
+pywin32==306
