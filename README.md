@@ -14,7 +14,7 @@ Extraxt word
 
 Extraxt characters
 <p align="center">
-   <img width="490" height="300"src="image/character.png">
+   <img width="590" height="300"src="image/character.png">
 </p>
 
 ### Installation
