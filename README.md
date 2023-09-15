@@ -9,12 +9,12 @@ Extraxt text
 </p>
 Extraxt word
 <p align="center">
-   <img width="580" height="300"src="image/word.png">
+   <img width="480" height="300"src="image/word.png">
 </p>
 
 Extraxt characters
 <p align="center">
-   <img width="480" height="300"src="image/character.png">
+   <img width="490" height="300"src="image/character.png">
 </p>
 
 ### Installation
