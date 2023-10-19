@@ -1,5 +1,4 @@
 # text-recognition
-# Password-generator
 
 This code is use to visualize text recognition using pytesseract and OpenCV.
 ## Preview
