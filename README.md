@@ -2,20 +2,11 @@
 # Password-generator
 
 This code is use to visualize text recognition using pytesseract and OpenCV.
-### Screenshots
-Extraxt text
-<p align="center">
-   <img width="480" height="300"src="image/text.png">
-</p>
-Extraxt word
-<p align="center">
-   <img width="480" height="300"src="image/word.png">
-</p>
+## Preview
 
-Extraxt characters
-<p align="center">
-   <img width="590" height="300"src="image/character.png">
-</p>
+
+https://github.com/AfsanehShamsaddini/text-recognition/assets/107355829/50d95001-2efb-4021-ad71-019e919f67f1
+
 
 ### Installation
 1. pip install -r requirement.txt
